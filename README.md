@@ -20,3 +20,8 @@ ML_ex8_PCA.ipynb
 =
 Kmeans_Digit_classifier.ipynb
 =
+
+
+#### Support:
+Bitcoin: 3QFpMuvMcMaZ6cQUHqgrd2mDirz1JZi1W8
+
